@@ -1,0 +1,27 @@
+body{
+    background-image: url("fin.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px 800px;
+    background-attachment: fixed;
+}
+img{
+    position: relative;
+    left: 100px;
+}
+.intro{
+    position: absolute;
+width: 874px;
+height: 283px;
+left: 216px;
+top: 235px;
+
+font-family: Risque;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 52px;
+text-align: center;
+
+color: #FBFCD3;
+
+}
