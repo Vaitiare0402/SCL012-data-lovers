@@ -72,13 +72,13 @@ color: #2E4053
     background: transparent;
     border: none !important;
     position: absolute;
-width: 193px;
-height: 43px;
-left: 663px;
-top: 599px;
+    width: 193px;
+    height: 43px;
+    left: 663px;
+    top: 599px;
 
-font-family: Risque;
-font-style: normal;
+    font-family: Risque;
+    font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 10px;
@@ -106,7 +106,8 @@ left: 663px;
 top: 490px;
 
 }
-.botones{
-    background-position: center;
-
+#botones{
+    display: flex;
+    justify-content: center;
+         
 }
