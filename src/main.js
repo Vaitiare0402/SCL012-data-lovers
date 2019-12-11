@@ -10,38 +10,50 @@
         root.style.display = "block";
     })
 
-    //btn filtrado//
-    //let harryF = [];
+    
     document.getElementById("btn2").addEventListener("click", () =>{
     
         //con el for recorre toda la data//
     
-        for(let i = 0; i < POTTER.length; i++){
-        //const btn = POTTER[i];
-        console.log(POTTER[i]);
-        contaier.innerHTML += `<div>
-                                    <li> 
-                                    ${POTTER[i].name}
-                                    
-                                     
-                                    </li>
-                                </div>`
-        }
+        let selectionHouse = POTTER.filter(elemento => (elemento.house === "Gryffindor"));
+        console.log(selectionHouse);
+        //console.log(POTTER[i]);
+        contaier.innerHTML += `<div class="container">
+                            
+                                   
         
+        
+                                </div>`
+
     });
-    
-    
+   
+  //filtro por casa Slytherin
+    document.getElementById("btn3").addEventListener("click", () =>{
+     
+        let selectionSlytherin= POTTER.filter(elemento => (elemento.house === "Slytherin"));
+        console.log(selectionSlytherin);
+        contaier.innerHTML += `<div>
+                                   
+        </div>`
 
-
-    //filtro por casas//
-    let selectionHouse = POTTER.filter(elemento => (elemento.house === "Gryffindor"));
-    console.log(selectionHouse);
-    
-      
-
-      
-
-    
-    
-    
-
+});
+    //filtro por casa Hufflepuff
+    document.getElementById("btn4").addEventListener("click", () =>{
+        
+          let selectionHufflepuff= POTTER.filter(elemento => (elemento.house === "Hufflepuff"));
+          console.log(selectionHufflepuff);
+          contaier.innerHTML += `<div>
+                                     
+                                  </div>`
+          
+      });
+      //filtro por casa Ravenclaw
+    document.getElementById("btn5").addEventListener("click", () =>{
+        
+          let selectionRavenclaw= POTTER.filter(elemento => (elemento.house === "Ravenclaw"));
+          console.log(selectionRavenclaw);
+          contaier.innerHTML += `<div>
+                                     
+                                  </div>`
+          
+      });

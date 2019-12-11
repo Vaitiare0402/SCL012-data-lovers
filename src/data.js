@@ -1,4 +1,6 @@
-export let filtroHAuse = (filtro, house) => {
-  return filtro.filter (filtrohouse => filtrohouse.house.includes(house));
-};
-console.log(filtroHAuse);
+export let selectionHouse = POTTER.filter(elemento => (elemento.house === "Gryffindor"));
+console.log(selectionHouse);
+
+//export let selectionSlytherin= POTTER.filter(elemento => (elemento.house === "Slytherin"));
+//console.log(selectionSlytherin);
+    
