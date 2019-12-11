@@ -1,36 +1,72 @@
 body{
-    background-image: url(holio/fondosi.jpg);
+
+    background-image: url("fin.jpg");
     background-repeat: no-repeat;
-    background-size: 1300px 700px;
+    background-size: 1300px 800px;
     background-attachment: fixed;
 }
+
 img{
     position: relative;
     left: 100px;
 }
-p{
-   position: relative;
-   left: 200px;
-   width: 884px;
-   height: 340px;
-   font-family: 'Times New Roman', Times, serif;
-   font-style: normal;
-   font-weight: normal;
-   font-size: 30px;
-   line-height: 38px;
-   text-align: center;
-   color: #FBFCD3;
+
+
+.intro{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 874px;
+    height: 200px;
+    background: #34495E;
+    opacity: 0.7;
+    left: 16px;
+    top: 15px;
+
+    font-family: Risque;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 32px;
+    text-align: center;
+    color: #FBFCD3;
+
+}
+.intro2{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 874px;
+    height: 100px;
+    background: #34495E;
+    opacity: 0.7;
+    left: 16px;
+    top: 35px;
+
+    font-family: Risque;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+
+    color: #FBFCD3;
+
+
 }
 .name{
     position: absolute;
     width: 200px;
     height: 30px;
-    left: 453px;
-    top: 599px;
-    border: #17202A;
-    border-radius: 0.5em;
-    color: #2E4053
+
+left: 453px;
+top: 599px;
+border: #17202A;
+border-radius: 0.5em;
+color: #2E4053
 }
+
+r
 .btn1{
     background: transparent;
     border: none !important;
@@ -40,18 +76,22 @@ p{
     left: 663px;
     top: 599px;
 
-    font-family: 'Times New Roman', Times, serif;
+
+    font-family: Risque;
     font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 10px;
-    text-decoration-line: underline;
+font-weight: normal;
+font-size: 20px;
+line-height: 10px;
+text-decoration-line: underline;
 
-    color: #FBFCD3;
+color: #FBFCD3;
 
-    backdrop-filter: blur(4px);
- }
- #pag1{
+backdrop-filter: blur(4px);
+    
+}
+
+#pag1{
+
     display: block;
     
 }
@@ -59,6 +99,7 @@ p{
 .pag2{
     display: none;
 }
+
 .nom1{
     width: 193px;
 height: 43px;
@@ -71,14 +112,18 @@ top: 490px;
     width: 600px;
     height: 250px;
     left: 350px;
-    top:-150px;
+
+    top:100px;
+
 }
 .btn2{
     position: absolute;
     width: 150px;
     height: 40px;
     left: 420px;
-    top: 550px;
+
+    top: 480px;
+
     background: #600808;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Times New Roman', Times, serif;
@@ -89,7 +134,9 @@ top: 490px;
     width: 150px;
     height: 40px;
     left: 750px;
-    top: 550px;
+
+    top: 480px;
+
     background: #418031;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Times New Roman', Times, serif;
@@ -100,7 +147,9 @@ top: 490px;
     width: 150px;
     height: 40px;
     left: 420px;
-    top: 670px;
+
+    top: 590px;
+
     background: #D5A52A;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Times New Roman', Times, serif;
@@ -111,10 +160,14 @@ top: 490px;
     width: 150px;
     height: 40px;
     left: 750px;
-    top: 670px;
+
+    top: 590px;
+
     background: #1D288F;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Times New Roman', Times, serif;
     color: #FBFCD3;
 
-}
+
+} 
+
