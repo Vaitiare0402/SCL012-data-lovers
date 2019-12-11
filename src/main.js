@@ -1,7 +1,5 @@
- 
-    import POTTER from './data/potter/potter.js'
-    
-    import{ filtro } from './data.js';
+import POTTER from './data/potter/potter.js'
+import{ filtro } from './data.js';
 filtro(POTTER)
     
 import{ filtroS } from './data.js';
