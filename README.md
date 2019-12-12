@@ -1,9 +1,9 @@
-# Data Lovers
+# Data lovers: Harry Potter: Wizards Unite
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [1. Sobre Harry Potter Wizards Unite](#1-sobre-harry-potter-wizards-unite)
+* [2. Resumen del proyecto](]#2-resumen-del-proyecto)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
@@ -13,80 +13,28 @@
 
 ***
 
-## 1. Preámbulo
+## 1. Sobre Harry Potter Wizards Unite
 
-Según [Forbes](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read),
-el 90% de la data que existe hoy ha sido creada durante los últimos dos años.
-Cada día generamos 2.5 millones de terabytes de datos, una cifra sin precedentes.
-
-No obstante, los datos por sí mismos son de poca utilidad. Para que esas
-grandes cantidades de datos se conviertan en **información** fácil de leer para
-los usuarios, necesitamos entender, procesar y mostrar estos datos. Una manera
-simple de hacerlo es creando _interfaces_ y _visualizaciones_.
-
-En la siguiente imagen, podrás ver cómo con la data que que se ve en la parte
-izquierda se puede construir (a la derecha) una interfaz amigable y comprensible
-para el usuario.
-
-![json-interfaz](https://lh4.googleusercontent.com/Tn-RPXS26pVvOTdUzRT1KVaJ-_QbFs9SpcGLxSPE43fgbHaXtFgMUInuDt7kV41DkT1j8Tt29V0LxQW7SMtC6digOIhfTXSBKdwI08wUwhD3RAqlwy0hjfmhZ2BFe91mtmCSEqysfgk)
-
-\* Puedes ver el detalle de la data en este [link](https://gist.github.com/lalogf/dd4aa3017a9f8aa8f90dfbca382c4dc9#file-student-json)
-y la interfaz construida en este [link](https://app.talento.laboratoria.la/profile/HFOoMpOreBU2psCcjjLg5O2EWEv2).
+Harry Potter wizards unite es un juego para móviles de realidad aumentada basado en el universo de magos de J.K. Rowling y contiene una lógica similar a la de Pokemon go, ya que ambos juegos están hechos por los mismos creadores. Visualmente los dos juegos poseen un mapa, centros de batalla (para batallar con otros magos y brujas), elementos en el camino como artefactos misteriosos, personajes icónicos o bestias legendarias del universo de Harry Potter. Además de poder lanzar hechizos determinados en distintas situaciones y poder crear su propio  personaje.
 
 ## 2. Resumen del proyecto
 
-En este proyecto **construirás una _página web_ para visualizar un
-_conjunto (set) de datos_** que se adecúe a lo que tu usuario necesita.
-
-Como entregable final tendrás una página web que permita a los usuarios
-**visualizar, filtrar, ordenar, etc.**.
-
-Te proponemos una serie de datos de diferentes _temáticas_ para que los
-explores y decidas con cuál te interesa trabajar. Cada _set_ de datos viene con
-información básica sobre los datos y su estructura, y una lista de las
-necesidades de los usuarios que proviene de una investigación (_research_)
-hecha por el equipo de Laboratoria.
-
-Una vez que elijas, diseña tu proyecto intentando ofrecerle la mejor experiencia
-posible para ayudarle a satisfacer sus necesidades.
-
-### Estos son datos que te proponemos:
-
-* [Pokémon](src/data/pokemon/pokemon.json):
-  En este set encontrarás una lista con los 151 Pokémon de la región de Kanto, 
-  junto con sus respectivas estadísticas usadas en el juego
-  [Pokémon GO](http://pokemongolive.com).
-  * [Investigación con jugadores de Pokémon Go](/src/data/pokemon/README.md)
-
-* [League of Legends - Challenger leaderboard](src/data/lol/lol.json):
-  Este set de datos muestra la lista de campeones en una liga del
-  juego League of Legends (LoL).
-  * [Investigación con jugadores de LoL](/src/data/lol/README.md)
-
-* [Harry Potter](src/data/potter/potter.json):
-  Este set de datos muestra la lista de los personajes del mundo de
-  [Harry Potter: Wizards Unite](https://www.wizardingworld.com), junto con sus
-  respectivas características mencionadas en la serie de novelas de Harry Potter
-  escrita por la autora británica J.K.Rowling.
-  * [Investigación con jugadores de Harry Potter: Wizards Unite](/src/data/potter/README.md)
+En este proyecto **contruimos una _página web_ para visualizar un
+_conjunto (set) de datos_** que se adecúe a lo que tu usuario necesita. Así finalmente este pueda **visualizar, filtrar, ordenar, etc.** dicha data. 
+La temática que elegimos para el proyecto fue Harry Potter Wizards Unite. La página contiene información detallada de cada perosnaje relevante de Harry Potter. 
+Primero elegiimos quién será nuestro usuario y qué necedidad tiene como tal.
 
 
-## 3. Objetivos de aprendizaje
+## 3. Procesos de diseño
 
-El objetivo principal de este proyecto es que, entendiendo las necesidades de
-tus usuarios, aprendas a diseñar y construir una interfaz web donde se pueda
-visualizar y manipular data.
+### a. Descubrimiento e investigación
 
-Revisa la lista y reflexiona sobre los objetivos que conseguiste en el
-proyecto anterior. Piensa en eso al decidir tu estrategia de trabajo individual
-y de equipo.
+Este producto va dirigido a un usuario que conoce de la historia de Harry Potter y que conoce cosas básicas del juego. Un usuario que antes de adentrarse de lleno a jugar en la app, busca saber más a profundidad los detalles de los personajes más importantes de Harry Potter, ya que esto le permimtirá diveresas cosas como inspirarlo a crear su perfil de usuario en el juego y a conocer mucho más de sus personajes favoritos de la saga. 
 
-### UX
 
-- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener _feedback_ e iterar.
-- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
-- [ ] Planear y ejecutar _tests_ de usabilidad.
+### b. Síntesis y definición
+
+Nos encontramos con un usuario 
 
 ### HTML y CSS
 
