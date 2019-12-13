@@ -166,27 +166,7 @@ img{
 
 
 } 
-.btn6{
-    background: transparent;
-    border: none !important;
-    position: absolute;
-    width: 193px;
-    height: 43px;
-    left: 1000px;
-    top: 700px;
-    font-family: Risque;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 10px;
-    text-decoration-line: underline;
-    color: #FBFCD3;
-    backdrop-filter: blur(4px);
-  
-}
-.data{
-    margin-top: 200px;
-}
+
 /*cartas*/
 .contaier{
     float: left;
@@ -198,8 +178,7 @@ img{
     flex-direction: row;
     justify-content: start;
     flex-flow: wrap;
-    /*align-content: space-around;*/
-    margin-top: 100px;
+    margin-top: 300px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
     margin: 10px;
@@ -217,7 +196,7 @@ img{
 .fotos{
     width:100px;
     height: 150px;
-    left: 50px;
+    left: 30px;
 
 }
 
@@ -234,4 +213,5 @@ img{
     justify-content: space-around;
     flex-flow: column;
     align-items: flex-start;
+    margin-top: 200px;
 }

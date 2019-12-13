@@ -9,7 +9,7 @@
 
 ## 1. Sobre Harry Potter Wizards Unite
 
-Harry Potter wizards unite es un juego para móviles de realidad aumentada basado en el universo de magos de J.K. Rowling y contiene una lógica similar a la de Pokemon go, ya que ambos juegos están hechos por los mismos creadores. Visualmente los dos juegos poseen un mapa, centros de batalla (para batallar con otros magos y brujas), elementos en el camino como artefactos misteriosos, personajes icónicos o bestias legendarias del universo de Harry Potter. Además de poder lanzar hechizos determinados en distintas situaciones y poder crear su propio personaje.
+Harry Potter wizards unite es un juego para móviles de realidad aumentada basado en el universo de magos de J.K. Rowling y contiene una lógica similar a la de Pokemon go, ya que ambos juegos están hechos por los mismos creadores. Visualmente el juego posee un mapa, centros de batalla (para batallar con otros magos y brujas), elementos en el camino como artefactos misteriosos, personajes icónicos o bestias legendarias del universo de Harry Potter que el usuario debe coleccionar. Además de poder lanzar hechizos determinados en distintas situaciones y poder crear su propio personaje.
 
 ## 2. Resumen del proyecto
 
