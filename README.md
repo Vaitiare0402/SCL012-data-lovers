@@ -49,9 +49,18 @@ Sabiendo las necesidades del usuario y teniéndo la data de los personajes, prop
 
 * Prototipo de baja fidelidad
 
+![imagen](src/imagenesreadme/img4.jpg)
+
 Para diseñar nuestro prototipo de baja fidelidad lo primero fue pensar en el título de la página y su introducción al usuario. El primer prototipo tenía tres páginas; en la primera la introducción y un botón con dos opciones: bruja o mago; luego otra página que filtraba a ese bruja o mago en las 4 casas de Harry Potter, pero nos dimos cuenta de que no cumplía con la necesidades del usuario ya que así no se filtrarian de manera sencilla los personajes. Entonces cambiamos el prototipo. En ese nuevo diseño creamos solo dos páinas y concluimos que era mejor filtrar de inmediato por las cuatro casas de Hogwarts separando solo por casas a todos los persanajes de la data que teníamos. Por lo tanto nos quedamos con la reformación del prototipo, ya que cumplía con las peticiones del usuario: que la página fuera sencilla de manipular y filtrar la información. 
 
 * Prototipo de alta fidelidad
+
+![imagen](src/imagenesreadme/img1.png)
+
+![imagen](src/imagenesreadme/img2.png) 
+ 
+![imagen](src/imagenesreadme/img3.png)
+
 
 En nuestro prototipo de alta fidelidad trabajamos con figma en un molde de sitio web.
 Primero nos dedicamos a buscar fondos y colores para el diseño de la página, ya que este depende de la temática. Elegimos Hogwarts como fondo para toda la página y fuimos probando letras y colores hasta  que nos decidimos por los que le venián mejor al momento de insertar textos de información a la pagina. 
