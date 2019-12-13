@@ -30,15 +30,15 @@ Investigamos a un usuario que conoce de la historia de Harry Potter, pero no muc
 
 Para determinar las necesidades del usuario creamos las siguientes historias de usuario:
 
-1- Yo como jugador principiante quiero conocer los detalles de mis personajes favoritos de Harry Potter para hacerme una idea de cómo me gustaría crear mi perfil en el juego.
-2- Yo como jugador principiante quiero saber en qué casas están mis personajes favoritos para elegir en qué casa estaré.
-3- Yo como jugador principiante quiero visualizar los datos en un orden sencillo para no demorarme en leer la información de la página.
-4- Yo como jugador quiero conocer las varitas para saber con cuál tengo más opciones de ganar en las batallas.
+* 1- Yo como jugador principiante quiero conocer los detalles de mis personajes favoritos de Harry Potter para hacerme una idea de cómo me gustaría crear mi perfil en el juego.
+* 2- Yo como jugador principiante quiero saber en qué casas están mis personajes favoritos para elegir en qué casa estaré.
+* 3- Yo como jugador principiante quiero visualizar los datos en un orden sencillo para no demorarme en leer la información de la página.
+* 4- Yo como jugador quiero conocer las varitas para saber con cuál tengo más opciones de ganar en las batallas.
 
 Criterios de acectación basasdos en las historias de usuario:
 
-1- Dado que el usuario conoce las casas de Hogwarts cuando llegué a la segunda página entonces debe elegir una de las cuatro casas para que aparezcan los personajes.
-2- Dado que el usuario apretará una de las casas cuando quiera apretar otra entonces tendrá que presionar el botón volve a las casas para elegir una nueva casa.
+* 1- Dado que el usuario conoce las casas de Hogwarts cuando llegué a la segunda página entonces debe elegir una de las cuatro casas para que aparezcan los personajes.
+* 2- Dado que el usuario apretará una de las casas cuando quiera apretar otra entonces tendrá que presionar el botón volve a las casas para elegir una nueva casa.
 
 
 ### 3.3 Ideación
@@ -51,7 +51,7 @@ Sabiendo las necesidades del usuario y teniéndo la data de los personajes, prop
 
 Para diseñar nuestro prototipo de baja fidelidad lo primero fue pensar en el título de la página y su introducción al usuario. El primer prototipo tenía tres páginas; en la primera la introducción y un botón con dos opciones: bruja o mago; luego otra página que filtraba a ese bruja o mago en las 4 casas de Harry Potter, pero nos dimos cuenta de que no cumplía con la necesidades del usuario ya que así no se filtrarian de manera sencilla los personajes. Entonces cambiamos el prototipo. En ese nuevo diseño creamos solo dos páinas y concluimos que era mejor filtrar de inmediato por las cuatro casas de Hogwarts separando solo por casas a todos los persanajes de la data que teníamos. Por lo tanto nos quedamos con la reformación del prototipo, ya que cumplía con las peticiones del usuario: que la página fuera sencilla de manipular y filtrar la información. 
 
-*Prototipo de alta fidelidad
+* Prototipo de alta fidelidad
 
 En nuestro prototipo de alta fidelidad trabajamos con figma en un molde de sitio web.
 Primero nos dedicamos a buscar fondos y colores para el diseño de la página, ya que este depende de la temática. Elegimos Hogwarts como fondo para toda la página y fuimos probando letras y colores hasta  que nos decidimos por los que le venián mejor al momento de insertar textos de información a la pagina. 
