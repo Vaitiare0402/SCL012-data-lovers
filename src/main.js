@@ -69,7 +69,7 @@ const dataFiltadoR=filtroR(POTTER)
 });
     //filtro por casa Hufflepuff
     document.getElementById("btn4").addEventListener("click", () =>{
-        let selectionHufflepuff = dataFiltradoH;
+        let selectionHufflepuff = dataFiltadoH;
         for (let i=0; i < selectionHufflepuff.length; i++){
             contaier.innerHTML += `<div class= "info">
             <img src=${selectionHufflepuff[i].image}class="fotos"/>
@@ -91,7 +91,7 @@ const dataFiltadoR=filtroR(POTTER)
 
       //filtro por casa Ravenclaw
     document.getElementById("btn5").addEventListener("click", () =>{
-        let selectionRavenclaw = dataFiltradoR;
+        let selectionRavenclaw = dataFiltadoR;
         for (let i=0; i < selectionRavenclaw.length; i++){
             contaier.innerHTML += `<div class= "info">
             <img src=${selectionRavenclaw[i].image}class="fotos"/>
